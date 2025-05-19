@@ -1,5 +1,5 @@
 # CPiscine
-**Proyectos realizados durante la piscine de C realizado en 42 Madrid**
+Proyectos realizados durante la **piscine de C** realizado en **42 Madrid** en la piscina de **Noviembre de 2023**.
 ## Notas
 |Proyecto|Nota|
 |--------|----|
